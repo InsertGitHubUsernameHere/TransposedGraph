@@ -1,0 +1,13 @@
+D E 1
+B C 1
+E F 1
+D F 1
+A B 1
+A C 1
+X M 1
+X N 1
+X O 1
+X P 1
+X Q 1
+M F 1
+N F 1
